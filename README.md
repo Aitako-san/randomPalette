@@ -13,11 +13,11 @@ CSS: CSS is used for styling and making the interface visually appealing.
 JavaScript: JavaScript powers the interactivity of the Color Palette Generator, allowing users to generate random colors and copy hex codes.
 
 # Getting Started
-To run this project locally on your own machine, you'll need to have Node.js installed. If you don't have Node.js installed, you can download it from nodejs.org.
+To run this project locally on your own machine, you'll need to have Node.js installed. If you don't have Node.js installed, you can download it from https://nodejs.org.
 
 # Installation
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/userName/repoName.git
+git clone "https://github.com/userName/repoName.git"
 
-Open the project directory and launch the index.html file in your web browser to start using the Color Palette Generator.
+Open the project directory and launch the "index.html" file in your web browser to start using the Color Palette Generator.
