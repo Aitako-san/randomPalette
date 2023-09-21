@@ -20,4 +20,4 @@ Clone the repository to your local machine using the following command:
 
 git clone https://github.com/userName/repoName.git
 
-Open the project directory and launch the index.html file in your web browser to start using the Color Palette Generator. In VS Code you can right-click the index.html file and choose “Open with Live Server” from the context menu but install the Live Server extension.
+Open the project directory and launch the index.html file in your web browser to start using the Color Palette Generator. In VS Code you can right-click the index.html file and choose “Open with Live Server” from the context menu (install Live Server extension).
